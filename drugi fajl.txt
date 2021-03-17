@@ -4,3 +4,4 @@ drugi fajl
 --2
 --3
 --2 hub
+--4
