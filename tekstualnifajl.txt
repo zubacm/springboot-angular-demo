@@ -1,3 +1,7 @@
 --naslov
+<<<<<<< HEAD
 --prvo
 --banch-b
+=======
+--iz huba
+>>>>>>> a84a2ab22e34fc2fbefbd9335efae30d557aae3d
