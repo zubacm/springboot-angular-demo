@@ -8,6 +8,9 @@ hub 3
 -5-d
 
 ponovo hub
+d1
+d2
+d3
 
 hubbbbbb1
 1111111
