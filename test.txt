@@ -2,3 +2,4 @@ test hub
 test hub 2
 first commit -d
 second commit -d
+hub 3
