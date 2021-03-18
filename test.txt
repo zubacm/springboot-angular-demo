@@ -1,1 +1,2 @@
 test hub
+test hub 2
