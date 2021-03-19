@@ -1,2 +1,2 @@
 # springboot-angular-demo
-Simple spring boot angular
+Simple project done with Spring Boot angular.
